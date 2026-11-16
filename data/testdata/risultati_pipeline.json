@@ -1,0 +1,219 @@
+[
+  {
+    "file": "data/testdata/pdf/bando_new_design_2024-25.pdf",
+    "pagine": 3,
+    "metodi": {
+      "text_extraction": 3
+    },
+    "caratteri": 7208,
+    "chunk": 7,
+    "secondi": 0.0,
+    "anteprima": "Ministero dell’istruzione e del merito  Dipartimento per il sistema educativo di istruzione e formazione  Direzione gene",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf/circolare_30525_2024-08-01.pdf",
+    "pagine": 1,
+    "metodi": {
+      "text_extraction": 1
+    },
+    "caratteri": 2773,
+    "chunk": 3,
+    "secondi": 0.0,
+    "anteprima": "Ministero dell’istruzione e del merito  Dipartimento per le risorse, l’organizzazione e l’innovazione digitale  Direzion",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf/circolare_campionati_italiano_2024-25.pdf",
+    "pagine": 2,
+    "metodi": {
+      "text_extraction": 2
+    },
+    "caratteri": 3123,
+    "chunk": 3,
+    "secondi": 0.0,
+    "anteprima": "Ministero dell’Istruzione e del Merito  Dipartimento per il sistema educativo di istruzione e di formazione  Direzione g",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf/dm_184_linee_guida_stem_2023.pdf",
+    "pagine": 9,
+    "metodi": {
+      "text_extraction": 9
+    },
+    "caratteri": 27128,
+    "chunk": 25,
+    "secondi": 0.0,
+    "anteprima": "Ministero dell’istruzione e del merito    Adozione delle Linee guida per le discipline STEM        IL MINISTRO DELL’ISTR",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf/il_paese_1908_n238.pdf",
+    "pagine": 4,
+    "metodi": {
+      "text_extraction": 4
+    },
+    "caratteri": 73756,
+    "chunk": 57,
+    "secondi": 0.0,
+    "anteprima": "Giovedì .B Ottobre 1908  . Abbonamento  Udine a domicillo e nc Regno, Anno L, 18  Semestre L. A — Trimestre  L, 4 — Per.",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf/lettera_leibniz_italiano.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 8471,
+    "chunk": 7,
+    "secondi": 22.2,
+    "anteprima": "*% - i LI a ar ee fs ale se PI ide i dia erat A | 7 a‘ ha # ¥ td È LL | a. | J | È . 4 H n i 19 È CH È. a >» | 4 ù 5 j i",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf/modello_domanda_interventi_assistenziali.pdf",
+    "pagine": 3,
+    "metodi": {
+      "text_extraction": 3
+    },
+    "caratteri": 4577,
+    "chunk": 5,
+    "secondi": 0.0,
+    "anteprima": "MODELLO di domanda                    Alla Direzione Generale per   le risorse umane e finanziarie    Ufficio I         ",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf/nasa_food_for_space_flight.pdf",
+    "pagine": 9,
+    "metodi": {
+      "text_extraction": 8,
+      "ocr": 1
+    },
+    "caratteri": 20849,
+    "chunk": 20,
+    "secondi": 2.0,
+    "anteprima": "General Disclaimer  One or more of the Following Statements may affect this Document     This document has been reprodu",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf/regolamento_campionati_italiano_2024-25.pdf",
+    "pagine": 9,
+    "metodi": {
+      "text_extraction": 9
+    },
+    "caratteri": 20817,
+    "chunk": 17,
+    "secondi": 0.0,
+    "anteprima": "Ministero dell’Istruzione e del Merito  Dipartimento per il sistema educativo di istruzione e di formazione  Direzione g",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf_da_jpeg/circolare_campionati_italiano_2024-25_p1.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 1034,
+    "chunk": 1,
+    "secondi": 1.1,
+    "anteprima": "Co srt tte ssi] I A 0051797,23-12-2024.h. 08:22 Ministero ddd Steuxione edd Merile Dijartimento fle sitema educativo di ",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf_da_jpeg/dm_184_linee_guida_stem_2023_p1.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 2352,
+    "chunk": 2,
+    "secondi": 1.5,
+    "anteprima": ". Mipiciiore Mibisusione e l'avere Adozione delle Linee guida per le discipline STEM IL MINISTRO DELL’ISTRUZIONE E DEL M",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf_da_jpeg/il_paese_1908_n238_p1.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 19368,
+    "chunk": 16,
+    "secondi": 12.4,
+    "anteprima": "4 Giovedì 8 Ottobre 1908 Utine «Anno XTÎI - N. 969 { _——____m— ini 1 vec Abbonamento i \" : Inserzioni a domicilo € nc Re",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf_da_jpeg/lettera_leibniz_italiano_p1.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 3082,
+    "chunk": 3,
+    "secondi": 11.3,
+    "anteprima": "puis: i 3 i Ro i É 5 7 . a > . a e i i % ua III, A RSE Peau Be d Sos ® DO AUT } y È RA si Dl ; si i i saan the: VARA Pa ",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf_da_jpeg/manoscritto_marx_manifesto.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 351,
+    "chunk": 1,
+    "secondi": 1.8,
+    "anteprima": "denti UA ADREZI Sb 3 en | fr Dg/dery hy E a wee gin bes Be) a Je ri... o | . La x pre ! STA 2 Sin scene AAP a el et or -",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf_da_jpeg/manoscritto_rosa_croce_napoletano.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 65,
+    "chunk": 1,
+    "secondi": 0.6,
+    "anteprima": "nun che (î vanno \\) Ri | PATO SIA | ° fi f A 7 A : i bef i vi è }",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf_da_jpeg/modello_domanda_interventi_assistenziali_p1.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 1412,
+    "chunk": 1,
+    "secondi": 0.8,
+    "anteprima": "MODELLO di domanda Alla Direzione Generale per le risorse umane e finanziarie Ufficio I V.le Trastevere, 76/A 00153 ROMA",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf_da_jpeg/nasa_food_for_space_flight_p1.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 877,
+    "chunk": 1,
+    "secondi": 0.7,
+    "anteprima": "General Disclaimer One or more of the Following Statements may affect this Document  e This document has been reproduced",
+    "errore": null
+  },
+  {
+    "file": "data/testdata/pdf_da_jpeg/nasa_food_for_space_flight_p2.pdf",
+    "pagine": 1,
+    "metodi": {
+      "ocr": 1
+    },
+    "caratteri": 526,
+    "chunk": 1,
+    "secondi": 0.9,
+    "anteprima": "SR Ra Food for S Flight pace Milg È aut bj ro Ge” “ R a 4 ‘ ° pe Der 7 ) | fata \"1999 3) è a —-< Mc + : ma PA i Sor ay ®",
+    "errore": null
+  }
+]
